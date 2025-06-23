@@ -67,8 +67,13 @@ This project showcases a complete end-to-end ETL and data analysis pipeline buil
 
 ## 📊 Visualizations
 
-| Daily Transactions                         | Age vs. Transaction Amount            |
-|-------------------------------------------|---------------------------------------|
+Daily Transactions
+
+![daily](https://github.com/gauravkanava/End-to-End-Bank-Transaction-ETL-Pipeline/blob/main/Visualization/Daily%20Transaction%20Counts.png)
+
+Age vs. Transaction Amount
+
+![age](https://github.com/gauravkanava/End-to-End-Bank-Transaction-ETL-Pipeline/blob/main/Visualization/Customer%20Age%20vs.%20Transaction%20Amount.png)
 
 ---
 
